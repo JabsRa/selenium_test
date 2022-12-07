@@ -1,0 +1,16 @@
+{
+    "data": [
+        {
+            "location": "sydney 2000",
+            "verification": "Wynyard Service Centre"
+        },
+        {
+            "location": "Sydney South 2000",
+            "verification": "Haymarket Service Centre"
+        },
+        {
+            "location": "Sydney Domestic Airport 2020",
+            "verification": "Rockdale Service Centre"
+        }
+    ]
+}
